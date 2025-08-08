@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravindra Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Currently Working in Kfintech as a Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindrak0812&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrak0812" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindrak0812" alt="ravindrak0812" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **GCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ravindrak0812](https://github.com/Ravindrak0812)
 
