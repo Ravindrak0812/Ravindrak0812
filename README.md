@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindra Kumar</h1>
-<h3 align="center">Currently Working in Kfintech as a Data Engineer</h3>
+<h3 align="center">Currently Working in Kfintech as a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindrak0812&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrak0812" /> </p>
 
